@@ -3,7 +3,7 @@ As you know, Windows Server is a specialized operating system which is designed 
 
 ### Note:
  1. If you are a student, an office worker or any standard user who is using desktop edition of Windows, just skip this post and please do not follow the instructions. I will not be responsible for any damage caused by you.
- 2. All editions of Windows Server in the Microsoft homepage are evaluation ones and not supported by KMS. So if you are using an evaluation version, just convert it to the retail one before following the instructions below.
+ 2. All editions of Windows Server in the Microsoft homepage are evaluation ones and not supported by KMS. So if you are using an evaluation version, just [convert it to the retail one](https://msguides.com/convert-windows-server-evaluation) before following the instructions below.
 
 ### Supported products:
  1. Windows Server 2022/2019/2016.
